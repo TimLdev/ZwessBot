@@ -27,3 +27,6 @@
 🎵 Music: `/join`, `/leave`, `/nowplaying`, `/play`, `/queue`, `/repeat`, `/skip`, `/stop`
 
 👑 Owner: `/setrules`, `/setticket`
+
+## Setup
+Create a bot [here](https://discord.com/developers/applications), get the token from it and put the token in the `.env.example` file. Rename `.env.example` to `.env`
