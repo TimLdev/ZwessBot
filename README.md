@@ -5,6 +5,16 @@
 
 **Made for [Zwess Community](https://dsc.gg/zwess). YouTube: [Zwess](https://www.youtube.com/channel/UCiL98vMbGydUPftgxLF_GvA)**
 
+## Features
+- Welcome/join message
+- Ticket system
+- Music system
+- Suggest
+- Meme & Joke
+- Moderation
+- Info commands
+- Owner commands
+
 ## Commands
 🎲 Fun: `/joke`, `/meme`, `/RPS`
 
