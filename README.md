@@ -9,6 +9,7 @@
 - Welcome/join message
 - Ticket system
 - Music system
+- Logs system
 - Suggest
 - Meme & Joke
 - Moderation
@@ -29,7 +30,7 @@
 👑 Owner: `/setrules`, `/setticket`
 
 ## Setup
-Create a bot [here](https://discord.com/developers/applications), get the token from it and put the token in the `.env.example` file. Rename `.env.example` to `.env`
+Create a bot [here](https://discord.com/developers/applications), get the token from it and put the token in the `.env.example` file. Rename `.env.example` to `.env`. In the Utils class you need to change all of the channel, role and other IDs from your server.
 
 ## Contact
 Discord: **£Tim#0221**
