@@ -17,7 +17,7 @@
 - Owner commands
 
 ## Commands
-🎲 Fun: `/joke`, `/meme`, `/RPS`
+🎲 Fun: `/joke`, `/meme`, `/sps`
 
 🍵 General: `/suggest`
 
