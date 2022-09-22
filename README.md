@@ -33,4 +33,4 @@
 Create a bot [here](https://discord.com/developers/applications), get the token from it and put the token in the `.env.example` file. Rename `.env.example` to `.env`. In the [Utils](https://github.com/TimLdev/ZwessBot/blob/master/src/main/java/dev/tim/discordbot/utils/Utils.java) class you need to change all of the channel, role and other IDs from your server.
 
 ## Contact
-Discord: **£Tim#0221**
+Discord: **TIM#0221**
