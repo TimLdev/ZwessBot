@@ -23,7 +23,7 @@ public class YouTubeCommand extends ListenerAdapter {
             JSONObject subsObj = null;
             JSONObject jsonObj = null;
             try {
-                URL u = new URL("https://www.googleapis.com/youtube/v3/channels?part=statistics&id=UCiL98vMbGydUPftgxLF_GvA&key=AIzaSyApxgazAGDqT7vF6EQ5RcvrS5zy4HX5-gA");
+                URL u = new URL("https://www.googleapis.com/youtube/v3/channels?part=statistics&id=API_ID");
                 URLConnection conn = u.openConnection();
                 conn.connect();
 
